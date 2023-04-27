@@ -1,0 +1,13 @@
+
+
+# ignore all logs
+*.log
+
+#ignore all txt files
+*.txt
+
+#ignore data directory
+data/
+
+#ignore all zips 
+*.zip
