@@ -1,0 +1,11 @@
+#all zip
+*.zip
+
+#all log
+*.log
+
+#data folder
+data/
+
+#txt files
+*.txt
